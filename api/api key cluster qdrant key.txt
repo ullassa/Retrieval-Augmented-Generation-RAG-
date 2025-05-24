@@ -1,0 +1,8 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.-39LTbKRBl0omIWtPUPNXc8yvD3N_KBGe43Dxt__7bM
+
+
+
+
+curl \
+    -X GET 'https://a93ea185-7cc0-46db-a70b-e3e78c578ae5.eu-west-2-0.aws.cloud.qdrant.io:6333' \
+    --header 'api-key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.-39LTbKRBl0omIWtPUPNXc8yvD3N_KBGe43Dxt__7bM'
